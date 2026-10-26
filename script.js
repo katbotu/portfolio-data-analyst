@@ -1,7 +1,4 @@
-Claude
 
-
-Script · JS
 /* ==========================================================
    Portfolio Data Analyst — Ketsia Botuwa
    script.js v3 : thème sombre, texte animé, projets repliables
@@ -190,4 +187,4 @@ Script · JS
     }
 })();
  
-Claude a terminé sa réponse.
+
